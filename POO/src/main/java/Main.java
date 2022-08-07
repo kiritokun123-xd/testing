@@ -30,9 +30,6 @@ public class Main {
         System.out.println(promedio);*/
         int n = 5; int i; int j;
         for (i=1;i<=n;i++){
-            for(j<=n; j=i;j++){
-
-            }
         }
     }
 }
